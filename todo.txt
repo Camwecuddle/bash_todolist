@@ -1,7 +1,12 @@
 Design High Country Angular flyer
 Master bash
-Javascript bugfix in Comm?
 Implement readme Universal template
-Kanban sudo pull request thing for Wes
-Practice hiding/showing elements with button press javascript
-Visit the other intern again
+Figure out todo.sh on startup
+Update linkedin
+Visit numero tres?
+Fight-game extra stats
+Fight-game leader board
+Ask Walt about all the useless 'readme's
+fight game classes
+Ask Chris about occ-app-ng-seed
+SPAM help desk documentation
